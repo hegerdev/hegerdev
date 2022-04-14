@@ -19,4 +19,5 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="100">
   <br>
   <h3>Flutter</h3>
+  <h3>React</h3>
 </div>
