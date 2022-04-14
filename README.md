@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="100">
-  <span>Flutter</span>
+  <br>
+  <h3>Flutter</h3>
 </div>
